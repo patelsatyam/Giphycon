@@ -60,7 +60,6 @@ const UserListScreen = (props) => {
             } else {
                 offsetValue = pagination.offset5
             }
-            // const API_KEY = "d0XfavYKCPnMQXVYau4uHyFFBzEbzcaG";
 
             const URL = `${giphySearchApi}?api_key=${API_KEY}&q=${term}&offset=${offsetValue}&limit=${limit}`;
             const resJson = await fetch(URL);
