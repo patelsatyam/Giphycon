@@ -9,7 +9,7 @@ then run command ./cd ios && pod install
 
 now you are ready to go.
  
- ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-18 at 22 08 04]<img src="https://user-images.githubusercontent.com/34741668/126076037-6142972a-b6ab-4372-8863-d878693570e0.png" align="left" height="48" width="48" >
+ ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-18 at 22 08 04]<img src="https://user-images.githubusercontent.com/34741668/126076037-6142972a-b6ab-4372-8863-d878693570e0.png" align="left" height="300" width="100" >
 ![android1](https://user-images.githubusercontent.com/34741668/126076044-0e8a46ae-997d-4db4-907f-2587612316fb.jpg)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-18 at 22 08 08](https://user-images.githubusercontent.com/34741668/126076047-37a8cc7a-1457-4023-935a-c9068003a23b.png)
 ![Android2](https://user-images.githubusercontent.com/34741668/126076048-9e1579f1-2506-40fc-a0ac-649084c6048f.jpg)
