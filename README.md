@@ -1,13 +1,11 @@
 # Giphycon
 git clone https://github.com/patelsatyam/Giphycon.git
 
-create .env file with reference to example.env file and put your Giphy Key.
+Create .env file with reference to example.env file and put your Giphy Key.
 
-run command npm install in root project
+Run command npm install in root project then run command ./cd ios && pod install.
 
-then run command ./cd ios && pod install
-
-now you are ready to go.
+Now you are ready to go.
  
  ![Simulator Screen Shot - iPhone 11 Pro Max]<img src="https://user-images.githubusercontent.com/34741668/126076037-6142972a-b6ab-4372-8863-d878693570e0.png" align="left" height="400" width="auto" >
  
